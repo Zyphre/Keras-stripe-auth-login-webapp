@@ -12,7 +12,3 @@ SQLAlchemy
 flask_sqlalchemy
 gunicorn 
 stripe
-sys
-os
-glob
-re
