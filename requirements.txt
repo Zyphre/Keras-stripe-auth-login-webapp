@@ -10,7 +10,7 @@ scikit-learn
 flask_login
 SQLAlchemy
 flask_sqlalchemy
-
+gunicorn 
 stripe
 sys
 os
